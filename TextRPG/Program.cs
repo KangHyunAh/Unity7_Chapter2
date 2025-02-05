@@ -3,17 +3,16 @@
 
 class Program
 {
+    int Lv = 1;
+    string chad = "전사";
+    int attackPoint = 10;
+    int guardPoint = 5;
+    int HP = 100;
+    int gold = 1500;
+
     //게임 시작
     static void Main()
     {
-
-        int Lv = 1;
-        string chad = "전사";
-        int attackPoint = 10;
-        int guardPoint = 5;
-        int HP = 100;
-        int gold = 1500;
-
         while (true) //올바르지 않은 값 걸러내기
         {
 
@@ -43,7 +42,7 @@ class Program
                     Console.WriteLine("Gold : " + gold + "G");
                     Console.WriteLine("0 입력 : 나가기");
 
-                    Console.WriteLine("원하시는 행동을 입력해주세요");
+                    Console.WriteLine("원하시는 행동을 입력해주세요"); 
                     Console.Write(">>");
                     string exitcondition = Console.ReadLine();
 
