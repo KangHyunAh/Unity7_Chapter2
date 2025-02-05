@@ -1,0 +1,14 @@
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\hauna\Desktop\게임 제작\unity 7기\3주차\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
